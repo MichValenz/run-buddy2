@@ -1,5 +1,3 @@
-# run-buddy2
-
 # Run Buddy
 
 ## Purpose

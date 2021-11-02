@@ -84,13 +84,24 @@ section {
 /*Hero Style Start */
 
 /* homepage hero */
+
+
+
 .hero {
-    background-image: url("./images/hero-bg.jpg");
+    background-image: url("./images/flipped-hero-image.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
 }
+
+.hero-cta {
+    position: absolute;
+    padding: 20px;
+    width: 300px;
+    
+}
+
 
 .hero-form {
     background-color: #fce138;
@@ -103,6 +114,7 @@ section {
     right: 140px;
     
 }
+
 
 .hero-form h3 {
     font-size: 24px;

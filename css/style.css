@@ -62,7 +62,7 @@ header nav {
 
 header nav ul li a {
     padding: 10px 15px;
-    font-weight:lighter;
+    font-weight: lighter;
     font-size: 1.55vw;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
@@ -104,6 +104,7 @@ section {
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-start;
+    height: 600px;
     
     
 }

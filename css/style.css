@@ -104,7 +104,7 @@ section {
     justify-content: center;
     flex-wrap: wrap;
     align-items: flex-start;
-    height: 600px;
+    
     
     
 }
@@ -599,6 +599,12 @@ footer a {
   .step-text {
     flex: 100%;  
   }
+
+    .trainer-bio h3, .trainer-bio h4 {
+    display: block;
+  }
+}
+
 
 }
 @media screen and (max-width: 575px) {

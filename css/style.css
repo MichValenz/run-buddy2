@@ -105,8 +105,7 @@ section {
     flex-wrap: wrap;
     align-items: flex-start;
     
-    
-    
+      
 }
 
 
@@ -606,7 +605,7 @@ footer a {
 }
 
 
-}
+
 @media screen and (max-width: 575px) {
 
   .hero-form button {
